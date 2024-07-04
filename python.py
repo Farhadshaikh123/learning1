@@ -1,1 +1,1 @@
-Whats up Buddies
+print("This line will be printed.")
